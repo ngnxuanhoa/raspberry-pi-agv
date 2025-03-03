@@ -1,0 +1,15 @@
+[Unit]
+Description=AGV Control System
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/agv
+ExecStart=/usr/bin/python3 main.py
+Restart=always
+Environment=PYTHONUNBUFFERED=1
+Environment=CAMERA_ENABLED=true
+
+[Install]
+WantedBy=multi-user.target

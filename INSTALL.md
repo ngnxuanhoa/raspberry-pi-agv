@@ -42,7 +42,7 @@ sudo apt install -y python3-pip python3-opencv git
 
 3. Clone the AGV repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/ngnxuanhoa/raspberry-pi-agv
 cd agv-project
 ```
 

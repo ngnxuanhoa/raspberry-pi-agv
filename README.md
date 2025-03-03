@@ -23,7 +23,7 @@ A Raspberry Pi-based autonomous guided vehicle with computer vision capabilities
 ## Quick Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/[your-username]/raspberry-pi-agv
+git clone https://github.com/ngnxuanhoa/raspberry-pi-agv
 cd raspberry-pi-agv
 ```
 

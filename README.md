@@ -19,6 +19,10 @@ A Raspberry Pi-based autonomous guided vehicle with computer vision capabilities
   - 5V/3A for Raspberry Pi
   - 12V for motors (battery pack)
 - Jumper wires
+Cập nhật Raspberry Pi OS
+sudo apt update
+sudo apt upgrade -y
+sudo reboot
 
 ## Quick Installation
 1. Clone this repository:

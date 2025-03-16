@@ -42,7 +42,7 @@ pip3 install -r requirements.txt
 ```python
 CAMERA_ENABLED = True  # Enable for real hardware
 WEB_USERNAME = 'admin'  # Change default credentials
-WEB_PASSWORD = 'your_secure_password'
+WEB_PASSWORD = '12345678'
 ```
 
 4. Start the AGV system:
